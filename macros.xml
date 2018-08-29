@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="close_panes">
+      <action id="EditorEscape" />
+      <action id="ActivateProjectToolWindow" />
+    </macro>
+  </component>
+</application>
