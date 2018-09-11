@@ -12,6 +12,7 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CopyElement" />
   <action id="Diff.FocusOppositePane" />
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord">
@@ -67,6 +68,7 @@
   <action id="Synchronize">
     <keyboard-shortcut first-keystroke="ctrl alt y" />
     <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="ToggleBookmarkWithMnemonic" />
   <action id="Vcs.Log.FocusTextFilter" />
