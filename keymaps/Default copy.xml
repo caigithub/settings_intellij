@@ -5,7 +5,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
-  <action id="CloseAllUnpinnedEditors">
+  <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
   <action id="CloseContent">
@@ -48,6 +48,9 @@
   <action id="JumpToLastWindow" />
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="OverrideMethods" />
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="alt f" />
