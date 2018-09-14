@@ -1,0 +1,15 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="External Executable Critical Failures" />
+    <notification groupId="File Watcher Messages" />
+    <notification groupId="Find Problems" shouldLog="false" />
+    <notification groupId="Gradle Import" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" />
+    <notification groupId="Maven Import" />
+    <notification groupId="Pipfile Watcher" shouldLog="false" />
+    <notification groupId="Plugins Suggestion" />
+    <notification groupId="Plugins updates" shouldLog="false" />
+    <notification groupId="System Health" />
+    <notification groupId="Vcs Important Messages" />
+  </component>
+</application>
