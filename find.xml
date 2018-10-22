@@ -7,7 +7,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Current File" />
-    <option name="FILE_MASK" value="!*test*.java" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -16,7 +16,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>!*test*.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
