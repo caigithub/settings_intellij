@@ -59,6 +59,10 @@
   </action>
   <action id="JumpToLastWindow" />
   <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="OverrideMethods" />
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="f10" />
