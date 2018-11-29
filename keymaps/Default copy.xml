@@ -66,13 +66,14 @@
   <action id="IntroduceParameter" />
   <action id="JumpToLastWindow" />
   <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="NextDiff" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="OverrideMethods" />
   <action id="PinActiveTab">
-    <keyboard-shortcut first-keystroke="f10" />
+    <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
@@ -88,13 +89,19 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ShowBookmarks">
-    <keyboard-shortcut first-keystroke="shift f11" />
-    <keyboard-shortcut first-keystroke="ctrl f11" />
-    <keyboard-shortcut first-keystroke="shift ctrl f11" />
-    <keyboard-shortcut first-keystroke="ctrl alt f11" />
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ShowIntentionActions" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
@@ -102,6 +109,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt y" />
     <keyboard-shortcut first-keystroke="shift ctrl y" />
     <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f7" />
   </action>
   <action id="ToggleBookmarkWithMnemonic" />
   <action id="Vcs.Log.FocusTextFilter" />
