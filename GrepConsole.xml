@@ -2,7 +2,7 @@
   <component name="GrepConsole">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="15" />
+        <option name="actionsExecuted" value="21" />
         <option name="firstUsage" value="0" />
         <option name="firstUsedVersion" value="8.5.162.000.1" />
         <option name="lastNaggingDate" value="0" />
@@ -12,6 +12,7 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enableFoldings" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -19,6 +20,7 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*FATAL.*" />
+                      <option name="showCountInConsole" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -33,6 +35,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*ERROR.*" />
+                      <option name="showCountInConsole" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -109,6 +112,7 @@
                       <option name="grepExpression" value="Exception" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="showCountInConsole" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -125,6 +129,7 @@
                       <option name="continueMatching" value="true" />
                       <option name="grepExpression" value=".*Started.*" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="showCountInConsole" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -147,6 +152,22 @@
                             <GrepColor>
                               <option name="color" value="-16711681" />
                               <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value="\s*at\s.*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
                             </GrepColor>
                           </option>
                         </GrepStyle>
@@ -182,7 +203,6 @@
           </option>
           <option name="name" value="default" />
           <option name="showStatsInConsoleByDefault" value="true" />
-          <option name="showStatsInStatusBarByDefault" value="true" />
         </Profile>
       </list>
     </option>
