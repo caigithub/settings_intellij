@@ -61,7 +61,6 @@
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="alt back_quote" />
-    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="ImplementMethods" />
   <action id="IntroduceParameter" />
@@ -95,7 +94,6 @@
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
-  <action id="ShowIntentionActions" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
