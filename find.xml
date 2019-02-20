@@ -1,13 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Current File" />
     <option name="defaultScopeName" value="Current File" />
     <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Current File" />
-    <option name="FILE_MASK" value="!*test*.java" />
+    <option name="FILE_MASK" value="*.cql" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -18,5 +16,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>!*test*.java</mask>
+    <mask>*.cql</mask>
   </component>
 </application>
