@@ -6,6 +6,7 @@
       <mapping pattern="20181030_091011_iteration36_data" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
+      <mapping ext="copy" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
