@@ -14,7 +14,7 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ToggleBreakpointEnabled" is_action="true" action_type="1" position="6">
+    <group value="XDebugger.MuteBreakpoints" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
@@ -51,6 +51,12 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ViewBreakpoints" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Debugger.RemoveAllBreakpoints" is_action="true" action_type="1" position="13">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
