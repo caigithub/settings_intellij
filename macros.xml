@@ -4,5 +4,9 @@
       <action id="EditorEscape" />
       <action id="ActivateProjectToolWindow" />
     </macro>
+    <macro name="open from clipboard">
+      <action id="GotoFile" />
+      <action id="EditorPaste" />
+    </macro>
   </component>
 </application>
