@@ -2,7 +2,7 @@
   <component name="GrepConsole">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="37" />
+        <option name="actionsExecuted" value="43" />
         <option name="firstUsage" value="0" />
         <option name="firstUsedVersion" value="8.5.162.000.1" />
         <option name="lastNaggingDate" value="0" />
@@ -169,45 +169,17 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
-                  </list>
-                </option>
-                <option name="name" value="default" />
-              </GrepExpressionGroup>
-              <GrepExpressionGroup>
-                <option name="grepExpressionItems">
-                  <list>
-                    <GrepExpressionItem>
-                      <option name="enabled" value="false" />
-                      <option name="grepExpression" value=".*at.*" />
-                      <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-16711681" />
-                            </GrepColor>
-                          </option>
-                        </GrepStyle>
-                      </option>
-                      <option name="unlessGrepExpression" value="" />
-                    </GrepExpressionItem>
-                  </list>
-                </option>
-                <option name="name" value="exceptions" />
-              </GrepExpressionGroup>
-              <GrepExpressionGroup>
-                <option name="grepExpressionItems">
-                  <list>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
                       <option name="grepExpression" value="runPrediction" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="showCountInConsole" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-16711681" />
+                              <option name="color" value="-1842205" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -219,11 +191,12 @@
                       <option name="grepExpression" value="runOnDemandPrediction" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="showCountInConsole" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-16711681" />
+                              <option name="color" value="-1842205" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -231,7 +204,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="caseInsensitive" value="true" />
                       <option name="continueMatching" value="true" />
                       <option name="grepExpression" value="handle ResourceEntry" />
                       <option name="highlightOnlyMatchingText" value="true" />
@@ -241,7 +213,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-16711681" />
+                              <option name="color" value="-1842205" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -250,7 +222,7 @@
                     </GrepExpressionItem>
                   </list>
                 </option>
-                <option name="name" value="cloudIq" />
+                <option name="name" value="default" />
               </GrepExpressionGroup>
             </list>
           </option>
