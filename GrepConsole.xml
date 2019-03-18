@@ -2,7 +2,7 @@
   <component name="GrepConsole">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="62" />
+        <option name="actionsExecuted" value="68" />
         <option name="firstUsage" value="0" />
         <option name="firstUsedVersion" value="8.5.162.000.1" />
         <option name="lastNaggingDate" value="0" />
@@ -60,7 +60,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-14336" />
+                              <option name="color" value="-60621" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -71,11 +71,12 @@
                       <option name="continueMatching" value="true" />
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="showCountInConsole" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-256" />
+                              <option name="color" value="-21494" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -115,33 +116,21 @@
                     <GrepExpressionItem>
                       <option name="caseInsensitive" value="true" />
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value=".*Started.*" />
-                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
-                      <option name="showCountInConsole" value="true" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-15352243" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                        </GrepStyle>
-                      </option>
-                    </GrepExpressionItem>
-                    <GrepExpressionItem>
-                      <option name="caseInsensitive" value="true" />
-                      <option name="continueMatching" value="true" />
                       <option name="grepExpression" value="Exception" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
-                      <option name="showCountInConsole" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="color" value="-60621" />
                               <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="bold" value="true" />
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-60621" />
                             </GrepColor>
                           </option>
                         </GrepStyle>
@@ -157,6 +146,29 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="color" value="-60621" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="bold" value="true" />
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-60621" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value=".*Started.*" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="showCountInConsole" value="true" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-15352243" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -180,7 +192,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-15352243" />
+                              <option name="color" value="-14680272" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -197,7 +209,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-15352243" />
+                              <option name="color" value="-14680272" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -214,7 +226,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-15352243" />
+                              <option name="color" value="-14680272" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -248,7 +260,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-961281" />
+                              <option name="color" value="-4764161" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
