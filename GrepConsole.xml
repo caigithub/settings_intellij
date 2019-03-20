@@ -2,7 +2,7 @@
   <component name="GrepConsole">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="69" />
+        <option name="actionsExecuted" value="70" />
         <option name="firstUsage" value="0" />
         <option name="firstUsedVersion" value="8.5.162.000.1" />
         <option name="lastNaggingDate" value="0" />
@@ -298,6 +298,7 @@
           <option name="maxLengthToMatch" value="300" />
           <option name="name" value="default" />
           <option name="showStatsInConsoleByDefault" value="true" />
+          <option name="showStatsInStatusBarByDefault" value="true" />
         </Profile>
       </list>
     </option>
