@@ -2,7 +2,7 @@
   <component name="GrepConsole">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="70" />
+        <option name="actionsExecuted" value="75" />
         <option name="firstUsage" value="0" />
         <option name="firstUsedVersion" value="8.5.162.000.1" />
         <option name="lastNaggingDate" value="0" />
@@ -184,8 +184,7 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value="handle ResourceEntry" />
-                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="grepExpression" value=".*handleTelemetryMessage.*" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="showCountInConsole" value="true" />
                       <option name="style">
@@ -201,10 +200,9 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value="runOnDemandPredictio" />
+                      <option name="grepExpression" value="processFil" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
-                      <option name="showCountInConsole" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -218,24 +216,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value="runPredictio" />
-                      <option name="highlightOnlyMatchingText" value="true" />
-                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
-                      <option name="showCountInConsole" value="true" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-14680272" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                        </GrepStyle>
-                      </option>
-                    </GrepExpressionItem>
-                    <GrepExpressionItem>
-                      <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value="GenericEventMessage" />
+                      <option name="grepExpression" value="processResourceEntr" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="showCountInConsole" value="true" />
@@ -252,15 +233,14 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value="GenericDataMessage" />
+                      <option name="grepExpression" value="postProcessin" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
-                      <option name="showCountInConsole" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-4764161" />
+                              <option name="color" value="-961281" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -269,7 +249,30 @@
                     </GrepExpressionItem>
                   </list>
                 </option>
-                <option name="name" value="cloudiq" />
+                <option name="name" value="parser" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="runPredictio" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="showCountInConsole" value="true" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-14680272" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="prediction" />
               </GrepExpressionGroup>
             </list>
           </option>
