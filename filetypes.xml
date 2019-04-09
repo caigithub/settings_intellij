@@ -5,6 +5,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="20190104_110900_iteration38_empty" type="PLAIN_TEXT" />
       <mapping pattern="20181030_091011_iteration36_data" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="copy" type="PLAIN_TEXT" />
