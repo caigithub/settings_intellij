@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="20181030_091011_iteration36_data" type="PLAIN_TEXT" />
+      <mapping pattern="changed_false_record" type="PLAIN_TEXT" />
       <mapping pattern="one_valid_record" type="PLAIN_TEXT" />
       <mapping pattern="20190104_110900_iteration38_empty" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
