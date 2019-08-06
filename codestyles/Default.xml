@@ -2,7 +2,8 @@
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="RIGHT_MARGIN" value="100" />
   <JavaCodeStyleSettings>
-    <option name="ANNOTATION_PARAMETER_WRAP" value="1" />
+    <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION" value="true" />
+    <option name="ANNOTATION_PARAMETER_WRAP" value="2" />
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
   </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
@@ -30,7 +31,6 @@
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WRAP_LONG_LINES" value="true" />
-    <option name="PARAMETER_ANNOTATION_WRAP" value="2" />
     <option name="VARIABLE_ANNOTATION_WRAP" value="2" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
   </codeStyleSettings>
