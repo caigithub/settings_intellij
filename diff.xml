@@ -1,6 +1,5 @@
 <application>
   <component name="DiffManager">
-    <enableFiles value="true" />
     <enableMerge value="true" />
     <filesTool value="C:\Users\Administrator\Downloads\winmerge-2.16.2-exe\WinMerge\WinMergeU.exe" newValue="C:\Users\Administrator\Downloads\winmerge-2.16.2-exe\WinMerge\WinMergeU.exe" />
     <mergeTool value="C:\Program Files\Perforce\p4merge.exe" newValue="C:\Program Files\Perforce\p4merge.exe" />
@@ -28,8 +27,8 @@
     </option>
   </component>
   <component name="ExternalDiffSettings">
-    <option name="DIFF_ENABLED" value="true" />
-    <option name="DIFF_DEFAULT" value="true" />
+    <option name="DIFF_ENABLED" value="false" />
+    <option name="DIFF_DEFAULT" value="false" />
     <option name="DIFF_EXE_PATH" value="C:\Users\Administrator\Downloads\winmerge-2.16.2-exe\WinMerge\WinMergeU.exe" />
     <option name="DIFF_PARAMETERS" value="%1 %2 /e" />
     <option name="MERGE_ENABLED" value="true" />
