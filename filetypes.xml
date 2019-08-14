@@ -7,7 +7,6 @@
       <mapping pattern="20181030_091011_iteration36_data" type="PLAIN_TEXT" />
       <mapping pattern="20190104_110900_iteration38_empty" type="PLAIN_TEXT" />
       <mapping pattern="changed_false_record" type="PLAIN_TEXT" />
-      <mapping pattern="ObjectMetricDescriptionFactory.java" type="PLAIN_TEXT" />
       <mapping ext="wrong_resource_json" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
@@ -17,6 +16,7 @@
       <mapping ext="copy" type="PLAIN_TEXT" />
       <removed_mapping pattern="ObjectMetricDescription" approved="true" type="CLASS" />
       <removed_mapping pattern="ObjectMetricDescriptionFactory" approved="true" type="JAVA" />
+      <removed_mapping pattern="ObjectMetricDescriptionFactory.java" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
