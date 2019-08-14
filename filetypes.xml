@@ -4,19 +4,19 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="ObjectMetricDescription" type="CLASS" />
-      <mapping pattern="ObjectMetricDescriptionFactory" type="JAVA" />
+      <mapping pattern="one_valid_record" type="PLAIN_TEXT" />
       <mapping pattern="20181030_091011_iteration36_data" type="PLAIN_TEXT" />
+      <mapping pattern="20190104_110900_iteration38_empty" type="PLAIN_TEXT" />
       <mapping pattern="changed_false_record" type="PLAIN_TEXT" />
       <mapping pattern="ObjectMetricDescriptionFactory.java" type="PLAIN_TEXT" />
-      <mapping pattern="one_valid_record" type="PLAIN_TEXT" />
-      <mapping pattern="20190104_110900_iteration38_empty" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="wrong_resource_json" type="PLAIN_TEXT" />
-      <mapping ext="new" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
-      <mapping ext="copy" type="PLAIN_TEXT" />
+      <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="wrong_shot" type="PLAIN_TEXT" />
+      <mapping ext="new" type="PLAIN_TEXT" />
+      <mapping ext="copy" type="PLAIN_TEXT" />
+      <removed_mapping pattern="ObjectMetricDescriptionFactory" approved="true" type="JAVA" />
     </extensionMap>
   </component>
 </application>
