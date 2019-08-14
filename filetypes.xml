@@ -3,7 +3,6 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;target;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="ObjectMetricDescription" type="CLASS" />
       <mapping pattern="one_valid_record" type="PLAIN_TEXT" />
       <mapping pattern="20181030_091011_iteration36_data" type="PLAIN_TEXT" />
       <mapping pattern="20190104_110900_iteration38_empty" type="PLAIN_TEXT" />
@@ -16,6 +15,7 @@
       <mapping ext="wrong_shot" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="copy" type="PLAIN_TEXT" />
+      <removed_mapping pattern="ObjectMetricDescription" approved="true" type="CLASS" />
       <removed_mapping pattern="ObjectMetricDescriptionFactory" approved="true" type="JAVA" />
     </extensionMap>
   </component>
