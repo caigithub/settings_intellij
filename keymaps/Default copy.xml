@@ -53,6 +53,9 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -105,6 +108,10 @@
   </action>
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="SplitAction">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
