@@ -8,5 +8,9 @@
       <action id="GotoFile" />
       <action id="EditorPaste" />
     </macro>
+    <macro name="Git Conflicts Resolve">
+      <action id="SynchronizeCurrentFile" />
+      <action id="Git.ResolveConflicts" />
+    </macro>
   </component>
 </application>
