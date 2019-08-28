@@ -4,13 +4,17 @@
       <action id="EditorEscape" />
       <action id="ActivateProjectToolWindow" />
     </macro>
-    <macro name="open from clipboard">
+    <macro name="Open From Clipboard">
       <action id="GotoFile" />
       <action id="EditorPaste" />
     </macro>
     <macro name="Git Conflicts Resolve">
       <action id="SynchronizeCurrentFile" />
       <action id="Git.ResolveConflicts" />
+    </macro>
+    <macro name="Open At Word">
+      <action id="EditorSelectWord" />
+      <action id="GotoFile" />
     </macro>
   </component>
 </application>
