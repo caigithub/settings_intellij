@@ -6,14 +6,14 @@
       <mapping pattern="one_valid_record" type="PLAIN_TEXT" />
       <mapping pattern="changed_false_record" type="PLAIN_TEXT" />
       <mapping pattern="20181030_091011_iteration36_data" type="PLAIN_TEXT" />
+      <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="copy" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
-      <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="wrong_shot" type="PLAIN_TEXT" />
       <mapping ext="wrong_resource_json" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="ObjectMetricDescriptionFactory" approved="true" type="JAVA" />
