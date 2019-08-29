@@ -16,5 +16,10 @@
       <action id="EditorSelectWord" />
       <action id="GotoFile" />
     </macro>
+    <macro name="List In Current File">
+      <action id="EditorSelectWord" />
+      <action id="FindInPath" />
+      <shortuct text="ESCAPE" />
+    </macro>
   </component>
 </application>
