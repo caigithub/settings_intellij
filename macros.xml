@@ -21,5 +21,9 @@
       <action id="FindInPath" />
       <shortuct text="ESCAPE" />
     </macro>
+    <macro name="Switch Context">
+      <action id="context.save" />
+      <action id="context.load" />
+    </macro>
   </component>
 </application>
