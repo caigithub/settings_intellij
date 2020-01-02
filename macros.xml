@@ -4,26 +4,13 @@
       <action id="EditorEscape" />
       <action id="ActivateProjectToolWindow" />
     </macro>
-    <macro name="Open From Clipboard">
+    <macro name="Open File From Clipboard">
       <action id="GotoFile" />
       <action id="EditorPaste" />
     </macro>
-    <macro name="Git Conflicts Resolve">
-      <action id="SynchronizeCurrentFile" />
-      <action id="Git.ResolveConflicts" />
-    </macro>
-    <macro name="Open At Word">
+    <macro name="Open File At Word">
       <action id="EditorSelectWord" />
       <action id="GotoFile" />
-    </macro>
-    <macro name="List In Current File">
-      <action id="EditorSelectWord" />
-      <action id="FindInPath" />
-      <shortuct text="ESCAPE" />
-    </macro>
-    <macro name="Switch Context">
-      <action id="context.save" />
-      <action id="context.load" />
     </macro>
   </component>
 </application>
