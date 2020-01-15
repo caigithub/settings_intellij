@@ -79,9 +79,27 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ToolbarMakeGroup" is_group="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="OpenFile" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XDebugger.MuteBreakpoints" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="StepOver" is_action="true" action_type="1" position="2">
@@ -91,17 +109,17 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Resume" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="StepInto" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
       <path value="Run/Debug" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Resume" is_action="true" action_type="1" position="4">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="StepOut" is_action="true" action_type="1" position="4">
