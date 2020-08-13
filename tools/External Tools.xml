@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="ol" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Software\outline\ol_viewer.bat" />
+      <option name="PARAMETERS" value="$FilePath$ $SelectedText$" />
+      <option name="WORKING_DIRECTORY" value="C:/Software/outline" />
+    </exec>
+  </tool>
+</toolSet>
