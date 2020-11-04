@@ -30,8 +30,8 @@
   <component name="ExternalDiffSettings">
     <option name="DIFF_DEFAULT" value="true" />
     <option name="DIFF_ENABLED" value="true" />
-    <option name="DIFF_EXE_PATH" value="C:\Users\Administrator\Downloads\DiffMerge_4_2_0_697_stable_x64\DiffMerge_4_2_0_697_stable_x64\sgdm.exe" />
-    <option name="DIFF_PARAMETERS" value="%1 %2" />
+    <option name="DIFF_EXE_PATH" value="C:\Users\Administrator\Downloads\winmerge-2.16.2-exe\WinMerge\WinMergeU.exe " />
+    <option name="DIFF_PARAMETERS" value="%1 %2 /dl Incoming_Theirs /e " />
     <option name="MERGE_ENABLED" value="true" />
     <option name="MERGE_EXE_PATH" value="C:\Program Files\Perforce\p4merge.exe" />
     <option name="MERGE_PARAMETERS" value="-nb Base -nm Merged %3 %1 %2 %4" />
