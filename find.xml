@@ -7,7 +7,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java,!*test*.java" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -16,7 +16,6 @@
     <mask>*.mxml</mask>
     <mask>*.properties</mask>
     <mask>*.cql</mask>
-    <mask>*.py</mask>
     <mask>*.java</mask>
     <mask>!test*.py</mask>
     <mask>*.js</mask>
@@ -24,5 +23,6 @@
     <mask>*.yaml</mask>
     <mask>!*test*.java</mask>
     <mask>*.java,!*test*.java</mask>
+    <mask>*.py</mask>
   </component>
 </application>
