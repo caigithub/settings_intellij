@@ -1,10 +1,9 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="ActivateDebugToolWindow">
-    <keyboard-shortcut first-keystroke="alt 5" />
-    <keyboard-shortcut first-keystroke="alt 3" />
-  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="Back">
@@ -113,7 +112,7 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ShowBookmarks">
-    <keyboard-shortcut first-keystroke="alt 2" />
+    <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
