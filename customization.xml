@@ -50,11 +50,6 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="NavBarToolBarOthers" is_group="true" action_type="-1" position="5">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -99,6 +94,11 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="OpenFile" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -132,7 +132,7 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="2">
+    <group value="Tool_External Tools_ol" is_group="true" action_type="1" position="2">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -155,11 +155,6 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Synchronize" is_action="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Git.ResolveConflicts" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -172,12 +167,12 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Git.ResolveConflicts" is_action="true" action_type="1" position="4">
+    <group value="Synchronize" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="5">
+    <group value="Git.ResolveConflicts" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -187,12 +182,22 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="context.load" is_action="true" action_type="1" position="8">
+    <group value="context.load" is_action="true" action_type="1" position="7">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="context.save" is_action="true" action_type="1" position="9">
+    <group value="context.save" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToolbarRunGroup" is_group="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="11">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
