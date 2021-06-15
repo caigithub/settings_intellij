@@ -132,7 +132,7 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Tool_External Tools_ol" is_group="true" action_type="1" position="2">
+    <group value="Tool_External Tools_ol" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -202,5 +202,9 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <action id="Git.ResolveConflicts" icon="$USER_HOME$/Downloads/icons/iconfinder_2993773_git_social media_icon_512px.png" />
+    <action id="context.load" icon="$USER_HOME$/Downloads/icons/iconfinder_6827780_data_multimedia_online_ui_upload_icon_512px.png" />
+    <action id="context.save" icon="$USER_HOME$/Downloads/icons/iconfinder_6827793_data_download_multimedia_online_ui_icon_512px.png" />
+    <action id="Tool_External Tools_ol" icon="$USER_HOME$/Downloads/icons/iconfinder_6827799_find_magnifier_multimedia_search_ui_icon_512px.png" />
   </component>
 </application>
