@@ -6,7 +6,12 @@
       <mapping pattern="-------------------------------------" type="AUTO_DETECTED" />
       <mapping pattern="========================" type="AUTO_DETECTED" />
       <mapping pattern="-----------------------------------------" type="AUTO_DETECTED" />
+      <mapping pattern="---------------------------------" type="PLAIN_TEXT" />
+      <mapping pattern="----------------------------------" type="PLAIN_TEXT" />
+      <mapping pattern="----[1]-----------------------------" type="PLAIN_TEXT" />
       <mapping pattern="-----------------------------------" type="PLAIN_TEXT" />
+      <mapping pattern="----[2]-----------------------------" type="PLAIN_TEXT" />
+      <mapping pattern="----[3]-----------------------------" type="PLAIN_TEXT" />
       <mapping ext="correct_mix_with_other_endpoint" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
