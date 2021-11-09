@@ -6,6 +6,7 @@
       <mapping pattern="-------------------------------------" type="AUTO_DETECTED" />
       <mapping pattern="========================" type="AUTO_DETECTED" />
       <mapping pattern="-----------------------------------------" type="AUTO_DETECTED" />
+      <mapping pattern="------------------------------------" type="AUTO_DETECTED" />
       <mapping pattern="---------------------------------" type="PLAIN_TEXT" />
       <mapping pattern="----------------------------------" type="PLAIN_TEXT" />
       <mapping pattern="----[1]-----------------------------" type="PLAIN_TEXT" />
