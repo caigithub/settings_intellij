@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*test*.*, !log.*, !log, !changelog.md" />
+    <option name="FILE_MASK" value="*.py,!*test*.py" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -24,7 +24,7 @@
     <mask>!*test*.*</mask>
     <mask>*.java</mask>
     <mask>!*test*.*, !log.*, !log</mask>
-    <mask>*.py,!*test*.py</mask>
     <mask>!*test*.*, !log.*, !log, !changelog.md</mask>
+    <mask>*.py,!*test*.py</mask>
   </component>
 </application>
