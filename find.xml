@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py,!*test*.py" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -18,7 +18,6 @@
     <mask>*.js</mask>
     <mask>*.py, !test*.py</mask>
     <mask>*.yaml</mask>
-    <mask>*.py</mask>
     <mask>!*test*.java</mask>
     <mask>*.java,!*test*.java</mask>
     <mask>!*test*.*</mask>
@@ -26,5 +25,6 @@
     <mask>!*test*.*, !log.*, !log</mask>
     <mask>!*test*.*, !log.*, !log, !changelog.md</mask>
     <mask>*.py,!*test*.py</mask>
+    <mask>*.py</mask>
   </component>
 </application>
