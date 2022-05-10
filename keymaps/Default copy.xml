@@ -5,7 +5,12 @@
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Edit" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -68,7 +73,13 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
   <action id="GotoNextError" />
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="alt back_quote" />
@@ -83,7 +94,9 @@
   <action id="Macro.Open File From Clipboard">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
+  <action id="MethodDown" />
   <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="MethodUp" />
   <action id="NavBar-navigate" />
   <action id="NextDiff" />
   <action id="OpenModuleSettings" />
@@ -122,6 +135,8 @@
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
@@ -145,6 +160,7 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="ToggleBookmarkWithMnemonic" />
+  <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.EditSource" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Push" />
