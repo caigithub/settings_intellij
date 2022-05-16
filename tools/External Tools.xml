@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="C:/Software/outline" />
     </exec>
   </tool>
+  <tool name="python format" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\Administrator\Downloads\python\format.bat" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/python" />
+    </exec>
+  </tool>
 </toolSet>
