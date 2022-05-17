@@ -10,7 +10,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\Administrator\Downloads\python\format.bat" />
       <option name="PARAMETERS" value="$FilePath$" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/python" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Administrator/Downloads/python" />
     </exec>
   </tool>
 </toolSet>
