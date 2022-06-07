@@ -142,27 +142,32 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="9">
+    <group value="Tool_External Tools_git-conflict" is_action="true" action_type="1" position="9">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="context.load" is_action="true" action_type="1" position="10">
+    <group seperator="true" action_type="1" position="10">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="context.save" is_action="true" action_type="1" position="11">
+    <group value="context.load" is_action="true" action_type="1" position="11">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ToolbarRunGroup" is_group="true" action_type="1" position="13">
+    <group value="context.save" is_action="true" action_type="1" position="12">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ShowSettings" is_action="true" action_type="1" position="15">
+    <group value="ToolbarRunGroup" is_group="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowSettings" is_action="true" action_type="1" position="16">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
