@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java,!*test*.java" />
+    <option name="FILE_MASK" value="!*test*.*, !log.*, !log" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -19,10 +19,10 @@
     <mask>!*test*.java</mask>
     <mask>!*test*.*</mask>
     <mask>*.java</mask>
-    <mask>!*test*.*, !log.*, !log</mask>
     <mask>!*test*.*, !log.*, !log, !changelog.md</mask>
     <mask>*.py</mask>
     <mask>*.py,!*test*.py</mask>
     <mask>*.java,!*test*.java</mask>
+    <mask>!*test*.*, !log.*, !log</mask>
   </component>
 </application>
