@@ -1,0 +1,9 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Lombok/Replace 'val' with explicit type (Lombok)" />
+    <ignoreAction name="Java/Lombok/Replace 'var' with explicit type (Lombok)" />
+    <ignoreAction name="Java/Lombok/Replace explicit type with 'val' (Lombok)" />
+    <ignoreAction name="Java/Lombok/Replace explicit type with 'var' (Lombok)" />
+    <ignoreAction name="Java/Lombok/Replace with annotations (Lombok)" />
+  </component>
+</application>
