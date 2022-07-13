@@ -49,7 +49,9 @@
   <action id="ExpressionTypeInfo" />
   <action id="ExternalSystem.OpenConfig" />
   <action id="ExtractFunction" />
-  <action id="ExtractMethod" />
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -73,6 +75,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
+  <action id="GotoFile" />
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
