@@ -100,7 +100,7 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Tool_External Tools_ol" is_action="true" action_type="1" position="3">
+    <group value="Macro.Open POM" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -117,64 +117,70 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ShowProjectStructureSettings" is_action="true" action_type="1" position="4">
+    <group value="Tool_External Tools_ol" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Maven.ShowSettings" is_action="true" action_type="1" position="5">
+    <group value="ShowProjectStructureSettings" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="6">
+    <group value="Maven.ShowSettings" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Synchronize" is_action="true" action_type="1" position="7">
+    <group seperator="true" action_type="1" position="7">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Git.ResolveConflicts" is_action="true" action_type="1" position="8">
+    <group value="Synchronize" is_action="true" action_type="1" position="8">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Tool_External Tools_git-conflict" is_action="true" action_type="1" position="9">
+    <group value="Git.ResolveConflicts" is_action="true" action_type="1" position="9">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="10">
+    <group value="Tool_External Tools_git-conflict" is_action="true" action_type="1" position="10">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="context.load" is_action="true" action_type="1" position="11">
+    <group seperator="true" action_type="1" position="11">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="context.save" is_action="true" action_type="1" position="12">
+    <group value="context.load" is_action="true" action_type="1" position="12">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ToolbarRunGroup" is_group="true" action_type="1" position="14">
+    <group value="context.save" is_action="true" action_type="1" position="13">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ShowSettings" is_action="true" action_type="1" position="16">
+    <group value="ToolbarRunGroup" is_group="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowSettings" is_action="true" action_type="1" position="17">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="Git.ResolveConflicts" icon="$USER_HOME$/Downloads/icons/iconfinder_2993773_git_social media_icon_512px.png" />
-    <action id="context.save" icon="$USER_HOME$/Downloads/icons/iconfinder_6827793_data_download_multimedia_online_ui_icon_512px.png" />
-    <action id="context.load" icon="$USER_HOME$/Downloads/icons/iconfinder_6827780_data_multimedia_online_ui_upload_icon_512px.png" />
-    <action id="Tool_External Tools_ol" icon="$USER_HOME$/Downloads/icons/iconfinder_6827799_find_magnifier_multimedia_search_ui_icon_512px.png" />
+    <action id="context.save" icon="$USER_HOME$/Downloads/ideal-icons/315180_document_download_icon.png" />
+    <action id="context.load" icon="$USER_HOME$/Downloads/ideal-icons/315181_document_upload_icon.png" />
+    <action id="Macro.Open POM" icon="$USER_HOME$/Downloads/ideal-icons/314754_eye_icon.png" />
+    <action id="Tool_External Tools_ol" icon="$USER_HOME$/Downloads/ideal-icons/315198_document_search_icon.png" />
   </component>
 </application>
