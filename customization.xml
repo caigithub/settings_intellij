@@ -100,7 +100,7 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Macro.Open POM" is_action="true" action_type="1" position="3">
+    <group seperator="true" action_type="1" position="3">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -152,11 +152,6 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="11">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="context.load" is_action="true" action_type="1" position="12">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -178,9 +173,9 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="Git.ResolveConflicts" icon="$USER_HOME$/Downloads/icons/iconfinder_2993773_git_social media_icon_512px.png" />
-    <action id="context.save" icon="$USER_HOME$/Downloads/ideal-icons/315180_document_download_icon.png" />
-    <action id="context.load" icon="$USER_HOME$/Downloads/ideal-icons/315181_document_upload_icon.png" />
+    <action id="context.save" icon="$USER_HOME$/Downloads/icons/save.png" />
+    <action id="context.load" icon="$USER_HOME$/Downloads/icons/load.png" />
     <action id="Macro.Open POM" icon="$USER_HOME$/Downloads/ideal-icons/314754_eye_icon.png" />
-    <action id="Tool_External Tools_ol" icon="$USER_HOME$/Downloads/ideal-icons/315198_document_search_icon.png" />
+    <action id="Tool_External Tools_ol" icon="$USER_HOME$/Downloads/icons/search.png" />
   </component>
 </application>
