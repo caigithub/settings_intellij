@@ -174,7 +174,7 @@
     </group>
     <action id="Git.ResolveConflicts" icon="$USER_HOME$/Downloads/icons/iconfinder_2993773_git_social media_icon_512px.png" />
     <action id="context.save" icon="$USER_HOME$/Downloads/icons/save.png" />
-    <action id="context.load" icon="$USER_HOME$/Downloads/icons/load.png" />
+    <action id="context.load" icon="$USER_HOME$/Downloads/icons/open_folder.png" />
     <action id="Macro.Open POM" icon="$USER_HOME$/Downloads/ideal-icons/314754_eye_icon.png" />
     <action id="Tool_External Tools_ol" icon="$USER_HOME$/Downloads/icons/search.png" />
   </component>
