@@ -5,8 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!log.*, !*.log, !log, !*.md" />
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="!log.*, !*.log, !log, !*.md, *.java" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.as</mask>
@@ -36,5 +35,6 @@
     <mask>!*test*.*, !log.*, !*.log, !log, !*.md</mask>
     <mask>!log.*, !*.log, !log, !*.md, *.py</mask>
     <mask>!log.*, !*.log, !log, !*.md</mask>
+    <mask>!log.*, !*.log, !log, !*.md, *.java</mask>
   </component>
 </application>
