@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!log.*, !*.log, !log, !*.md, *.java" />
+    <option name="FILE_MASK" value="!log.*, !*.log, !log, !*.md" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.as</mask>
@@ -34,7 +32,7 @@
     <mask>!*test*.*, !log.*, !*.log, !log, !*.md, *.java</mask>
     <mask>!*test*.*, !log.*, !*.log, !log, !*.md</mask>
     <mask>!log.*, !*.log, !log, !*.md, *.py</mask>
-    <mask>!log.*, !*.log, !log, !*.md</mask>
     <mask>!log.*, !*.log, !log, !*.md, *.java</mask>
+    <mask>!log.*, !*.log, !log, !*.md</mask>
   </component>
 </application>
