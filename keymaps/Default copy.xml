@@ -55,6 +55,10 @@
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="ctrl alt f3" />
@@ -142,7 +146,6 @@
   <action id="SplitAction">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="shift ctrl l" />
-    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="SplitChooser.Duplicate" />
   <action id="StepInto">
