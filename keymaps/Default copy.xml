@@ -1,8 +1,9 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="ActivateFavoritesToolWindow">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateHierarchyToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
-  <action id="ActivateFindToolWindow" />
   <action id="ActivateRunToolWindow" />
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
@@ -15,6 +16,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="ChangesView.SetDefault" />
   <action id="CloseAllEditorsButActive">
@@ -171,6 +176,8 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="ToggleBookmarkWithMnemonic" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.EditSource" />
   <action id="Vcs.Log.FocusTextFilter" />
