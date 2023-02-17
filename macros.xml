@@ -26,5 +26,11 @@
       <action id="EditorCopy" />
       <action id="EditorPaste" />
     </macro>
+    <macro name="open in new ide">
+      <action id="CopyReferencePopupGroup" />
+      <action id="CopyAbsolutePath" />
+      <action id="OpenFile" />
+      <action id="EditorPaste" />
+    </macro>
   </component>
 </application>
