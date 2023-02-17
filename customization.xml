@@ -100,7 +100,7 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="3">
+    <group value="Macro.open default ide" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -117,63 +117,75 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Tool_External Tools_ol" is_action="true" action_type="1" position="4">
+    <group value="Macro.open new ide" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ShowProjectStructureSettings" is_action="true" action_type="1" position="5">
+    <group seperator="true" action_type="1" position="5">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Maven.ShowSettings" is_action="true" action_type="1" position="6">
+    <group value="Tool_External Tools_ol" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="7">
+    <group value="ShowProjectStructureSettings" is_action="true" action_type="1" position="7">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Synchronize" is_action="true" action_type="1" position="8">
+    <group value="Maven.ShowSettings" is_action="true" action_type="1" position="8">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Git.ResolveConflicts" is_action="true" action_type="1" position="9">
+    <group seperator="true" action_type="1" position="9">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Tool_External Tools_git-conflict" is_action="true" action_type="1" position="10">
+    <group value="Synchronize" is_action="true" action_type="1" position="10">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="context.load" is_action="true" action_type="1" position="12">
+    <group value="Git.ResolveConflicts" is_action="true" action_type="1" position="11">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="context.save" is_action="true" action_type="1" position="13">
+    <group value="Tool_External Tools_git-conflict" is_action="true" action_type="1" position="12">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ToolbarRunGroup" is_group="true" action_type="1" position="15">
+    <group value="context.load" is_action="true" action_type="1" position="14">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ShowSettings" is_action="true" action_type="1" position="17">
+    <group value="context.save" is_action="true" action_type="1" position="15">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ToolbarRunGroup" is_group="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowSettings" is_action="true" action_type="1" position="19">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="Macro.open default ide" icon="$USER_HOME$/Downloads/ideal-icons/8725995_house_user_icon.png" />
     <action id="Git.ResolveConflicts" icon="$USER_HOME$/Downloads/icons/iconfinder_2993773_git_social media_icon_512px.png" />
     <action id="context.save" icon="$USER_HOME$/Downloads/icons/save.png" />
+    <action id="Macro.open new ide" icon="$USER_HOME$/Downloads/ideal-icons/8725599_clinic_medical_icon.png" />
     <action id="context.load" icon="$USER_HOME$/Downloads/icons/open_folder.png" />
     <action id="Macro.Open POM" icon="$USER_HOME$/Downloads/ideal-icons/314754_eye_icon.png" />
     <action id="Tool_External Tools_ol" icon="$USER_HOME$/Downloads/icons/search.png" />

@@ -26,11 +26,15 @@
       <action id="EditorCopy" />
       <action id="EditorPaste" />
     </macro>
-    <macro name="open in new ide">
+    <macro name="open new ide">
       <action id="CopyReferencePopupGroup" />
       <action id="CopyAbsolutePath" />
       <action id="OpenFile" />
       <action id="EditorPaste" />
+    </macro>
+    <macro name="open default ide">
+      <action id="OpenFile" />
+      <typing text-keycode="87:0;59:1;92:0">w:\</typing>
     </macro>
   </component>
 </application>
