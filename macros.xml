@@ -19,5 +19,8 @@
       <action id="EditorCopy" />
       <action id="EditorPaste" />
     </macro>
+    <macro name="aa">
+      <action id="FindInPath" />
+    </macro>
   </component>
 </application>
